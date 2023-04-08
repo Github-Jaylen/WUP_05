@@ -81,4 +81,6 @@ In these results there was a 0.0000000423% chance of getting this output.
 
 # Discussion and Conclusion
 
+From this data the odds of those with aids who took the vaccine vs the placebo was a split of about 25:75% and those who did not was much closeer to an even split of 50:50.
+
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
